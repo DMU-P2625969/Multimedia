@@ -10,7 +10,7 @@ text-align: center;
 }
 
 div.a {
-  font-size: 30px;
+  font-size: 15px;
   text-align: center;
     }
 div.b {
@@ -51,15 +51,15 @@ a.Golden:hover {color:#ffcc00;font-size: 250%;}
 
 
 p {
-font-size: 25px;
+font-size: 15px;
 }
 
 p2 {
-font-size: 25px;
+font-size: 15px;
 }
 
 p3 {
-font-size: 25px;
+font-size: 15px;
 text-align: center;
 }
 
